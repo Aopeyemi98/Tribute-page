@@ -1,0 +1,25 @@
+body {
+    background-color:black;
+    color:orange;
+    display:flex;
+    justify-content:center;
+  }
+  
+  h1 {
+    text-align:center;
+  }
+  
+  #image {
+    display:block;
+    max-width:100%;
+  }
+  
+  #tribute-link {
+    color:white;
+    text-decoration:none;
+  }
+  
+  #tribute-link:hover {
+    color:orange;
+    cursor:pointer;
+  }
